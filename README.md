@@ -12,16 +12,16 @@ The purpose of this analysis is to compare various metrics concerning the total 
 4. Despite the overall trend of the raw totals, the *average fare per ride* was highest in Rural areas ($34.62) which is over 10 times the average in Urban areas ($24.53). The Suburban area ($24.52) was also higher than Urban by more than $6 per ride.
 5. The *average fare per driver* mirrors the *average fare per ride* with Rural again on top with $55.49 dollars, Suburban at $39.50, and Urban only showing $16.57 per driver.
 
+| Image 1.1: PyBer Summary Table|
+| --- |
+| <img src="/Analysis/PyBer_fare_summary.png" width="800"> |
+
 ### From Image 1.2 - Total Fare by City Type
 1. From the chart, we can see that Urban collected higher fares throughout the entire period of months, with Suburban collecting more fares than Rural throughout. 
 2. There appears to be a jump in fares collected in the second half of February.
 3. There is a slight upward trend in the Urban and Suburban areas overall.
 4. Though the Rural areas fluctuated, they remained fairly even overall.
 5. Suburban picked up a bit in the second half of April; this could be a new shift, or just a temporary spike. More data into later months of 2019 will be needed to follow this trend.
-
-| Image 1.1: PyBer Summary Table|
-| --- |
-| <img src="/Analysis/PyBer_fare_summary.png" width="800"> |
 
 | Image 1.2: Total Fare by City Type|
 | --- |
