@@ -27,7 +27,7 @@ The purpose of this analysis is to compare various metrics concerning the total 
 | --- |
 | <img src="/Analysis/Fig8.png" width="800"> |
 
-### Summary
+## Summary
 1. Urban areas, by far, generate the greatest revenue. Though this is the case, it is driven mostly by volume of fares and not by the size of the fares. Competition for fares in Urban areas is fierce and is already pretty saturated with companies and drivers. I would propose that we work to add some additional differentiators for our Urban service to try and set us apart from the other options. Perhaps offering a monthly fee to get priority access, or loyalty discounts to get passengers to use Pyber exclusively.
 2. Suburban areas seem to be trending upward in the last half of May. We should continue to monitor this trend, and perhaps commit more resources to help maintain this growth.
 3. Higher fares are present in the Rural areas. 10 times higher than the fares in Urban areas. The overall volume of rides here is very small, but the length is longer. If we invest more marketing or some first time discounts in the area, perhaps we can increase the engagement of the overall rural population to tap into the higher rates in the area over time.
